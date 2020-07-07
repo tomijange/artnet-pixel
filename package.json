@@ -11,7 +11,7 @@
   "dependencies": {
     "artnet": "^1.4.0",
     "chroma-js": "^2.0.3",
-    "npm": "^6.13.4",
+    "npm": "^6.14.6",
     "pureimage": "^0.1.6"
   },
   "devDependencies": {
